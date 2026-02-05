@@ -1,0 +1,17 @@
+{
+	"id": "malverk_evenodd",
+	"name": "EvenOdd",
+	"display_name": "EvenOdd",
+	"author": [
+		"eaze",
+		"SeSebasti"
+	],
+	"description": "Replaces the texture of Even Steven and Odd Todd. Art by eaze. Code by SeSebasti.",
+	"prefix": "malverk_evenodd",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "1.0.0",
+	"dependencies": []
+}
